@@ -1,0 +1,42 @@
+{
+    "well_geometry": {
+        "Hole_Diameter_in": 8.5,
+        "Pipe_OD_in": 5.0,
+        "MD_ft": 10000.0,
+        "TVD_ft": 8695.74,
+        "TVD_shoe_ft": 5000.0,
+        "Pipe_Capacity_bbl_ft": 0.01776,
+        "Pump_Output_bbl_stk": 0.1,
+        "Slow_Pump_Rate_SPM": 30.0
+    },
+    "mud_and_formation": {
+        "OMW_ppg": 10.5,
+        "Plastic_Viscosity_cP": 20.0,
+        "Yield_Point_lbf_100ft2": 15.0,
+        "Flow_Rate_GPM": 450.0,
+        "Pore_Pressure_Gradient_ppg": 9.0,
+        "Fracture_Gradient_ppg": 14.2,
+        "LOT_EMW_ppg": 14.5,
+        "SIDPP_psi": 500.0,
+        "SICP_psi": 700.0,
+        "SCRP_psi": 650.0
+    },
+    "reference_published_results": {
+        "Buoyancy_Factor": 0.8397,
+        "Annular_Velocity_ftmin": 233.4,
+        "Annular_Pressure_Loss_psi": 277.8,
+        "Hydrostatic_Pressure_at_TD_psi": 4747.9,
+        "BHCP_at_TD_psi": 5025.7,
+        "ECD_at_TD_ppg": 11.11,
+        "Formation_Pore_Pressure_psi": 5247.9,
+        "Kill_Mud_Weight_ppg": 11.61,
+        "Initial_Circulating_Pressure_psi": 1150.0,
+        "Final_Circulating_Pressure_psi": 718.5,
+        "Initial_MAASP_psi": 1040.0,
+        "Final_MAASP_psi": 752.5,
+        "Drillstring_Volume_bbl": 177.6,
+        "Strokes_to_Bit": 1777,
+        "Time_to_Bit_min": 59.2,
+        "DPP_Drop_per_100_Strokes_psi": 24.3
+    }
+}

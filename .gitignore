@@ -1,0 +1,61 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environments
+venv/
+.venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE & Editor Settings
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# Logs & Temporary Files
+*.log
+scratch/
+temp/
+tmp/
+
+# Streamlit Local Config & Secrets
+.streamlit/secrets.toml
+
+# Personal Study Guides & Interview Prep Materials (Keep local only)
+INTERVIEW_STUDY_GUIDE.md
+*interview*
+*INTERVIEW*
+notes/
+personal/
